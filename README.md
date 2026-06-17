@@ -1,4 +1,4 @@
-# Ángel Yahel López Zepeda
+# Angel Yahel López Zepeda
 
 > No soy un programador.
 >
